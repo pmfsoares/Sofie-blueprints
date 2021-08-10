@@ -7,7 +7,7 @@ This is **not** the NRK specific blueprints for the [Sofie News Studio Automatio
 For developers installation steps are as following:
 
 ```sh
-git clone http://pmfsoares/sofie-blueprints.git
+git clone http://github.com/pmfsoares/sofie-blueprints.git
 yarn
 yarn dist
 ```
